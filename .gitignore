@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+data/data.db
+data/yara_rules/yara_forge_latest/
+*.log
+.DS_Store
+Thumbs.db

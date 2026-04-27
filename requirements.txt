@@ -1,0 +1,9 @@
+psutil
+GPUtil
+easygui
+PySide2
+pefile
+joblib
+numpy<2
+scikit-learn==0.24.1
+yara-python
